@@ -1,17 +1,27 @@
-## Hi there 👋 - I'm Eric!
+### Hi, I'm Eric 👋
 
-- I'm currently working on Java and .NET projects for NASA
-- I'm the owner of the [PHPolar Microframework](https://phpolar.org)
-- I'm also the owner of the [HODI](https://github.com/ericfortmeyer/HODI) dependency injection library for F# which has currently 8,476 downloads
-- I've worked on projects that use
-  - React
-  - Angular
-  - Vue
-  - TypeScript
-  - F#
-  - C#
-  - Java Springboot
-  - PHP
-  - NestJS
-  - Visual Basic
- 
+I'm a software developer who enjoys building clean systems, learning new tools, 
+and exploring how things fit together beneath the surface.
+
+---
+
+### 🧪 Current Homelab & Systems Work
+
+**[incomplete-stack](https://github.com/ericfortmeyer/incomplete-stack)**  
+Configs, dotfiles, and system definitions for my small fleet of imperfect 
+machines — Samson (Ubuntu), Hiram (Debian), and Gödel (NixOS).  
+Inspired by Gödel: never complete, always evolving.
+
+---
+
+### 💻 What I'm Into Right Now
+- Linux across multiple philosophies (Ubuntu, Debian, NixOS)
+- Nix/NixOS & reproducible systems
+- Docker + container workflows
+- Functional programming (Haskell, FP concepts)
+- Building a calm, intentional homelab
+
+---
+
+### 📫 Contact
+Feel free to reach out or follow my work here on GitHub.
