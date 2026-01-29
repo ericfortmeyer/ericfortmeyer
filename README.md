@@ -10,7 +10,7 @@ and exploring how things fit together beneath the surface.
 **[incomplete-stack](https://github.com/ericfortmeyer/incomplete-stack)**  
 Configs, dotfiles, and system definitions for my small fleet of imperfect 
 machines — Samson (Ubuntu), Hiram (Debian), and Gödel (NixOS).  
-Inspired by Gödel: never complete, always evolving.
+Inspired by Gödel: never complete, constantly unfolding.
 
 ---
 
