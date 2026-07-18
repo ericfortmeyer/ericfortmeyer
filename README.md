@@ -16,9 +16,9 @@ Inspired by Gödel: never complete, constantly unfolding.
 
 ### 🚧 Current Project — forte
 
-**[forte](https://github.com/ericfortmeyer/forte)** — Building and maintaining a new systems-focused codebase that explores reliable, reproducible tooling for developer workflows.
+**[forte](https://github.com/ericfortmeyer/forte)** — Focused deploy tool that enforces FHS conventions so deployments are predictable.
 
-- **What it is:** an service deployment tool for FHS-compliant installations.
+- **What it is:** a service deployment tool for FHS-compliant installations.
 - **Why it matters:** enables consistent developer workflows and predictable deployments across environments.
 - **Status:** actively developing; contributions and feedback welcome.
 
